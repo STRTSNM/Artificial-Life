@@ -4,7 +4,7 @@ import matplotlib.animation as animation
 import hashlib
 import pickle
 
-width, height = 100, 100
+width, height = 500, 500
 cell_size = 5
 cols, rows = width // cell_size, height // cell_size
 
